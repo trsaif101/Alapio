@@ -1,0 +1,5 @@
+{
+  "name": "Alapio",
+  "description": "A feature-rich communication app like WhatsApp with real-time messaging, voice calls, and file sharing.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
